@@ -5,7 +5,7 @@
 #define ll long long
 using namespace std;
 ll n;
-int a,b;
+int a,b; 
 int main()
 {
 #ifndef ONLINE_JUDGE
