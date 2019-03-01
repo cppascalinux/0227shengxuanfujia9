@@ -13,7 +13,7 @@ int main()
 	freopen("b1.out","w",stdout);
 #endif
 	int t;
-	scanf("%d",&t);
+	scanf("%d",&t);   
 	while(t--)
 	{
 		scanf("%lld%d%d",&n,&a,&b);
